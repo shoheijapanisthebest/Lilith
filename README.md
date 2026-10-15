@@ -1,2 +1,2 @@
 # Lilith
-as human as possible ai system, uses whatever 8b model i find fitting
+I’m sorry if I drop the finished version all of a sudden I am never connecting editors again
